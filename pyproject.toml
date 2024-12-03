@@ -11,3 +11,4 @@ python = "^3.11"
 
 ipykernel = "^6.29.5"
 torch = "^2.5.1"
+numpy = "^2.1.3"
